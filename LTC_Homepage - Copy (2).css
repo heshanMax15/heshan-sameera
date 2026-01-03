@@ -1,0 +1,29 @@
+body, html {
+color: black;
+font-family: 'Abel', sans-serif;
+margin: 0;
+padding: 0;
+background-color: transparent;
+}
+
+body {
+font-size: 1.5em;
+background-image: url('devid.jpg');
+}
+
+.text-box {
+background-color:Green;
+border-radius: 18px;
+margin: 2em auto;
+padding: 18px;
+width: 90%;
+}
+#btn
+{
+font-size: 1em;
+color:#fff;
+background:Green;
+padding:15px;
+margin-left:50%
+  }
+}
